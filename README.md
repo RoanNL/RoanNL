@@ -1,11 +1,9 @@
 # 👨🏻‍💻 Roan Lisboa
 
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=40&duration=3000&pause=1000&color=B410F3FF&center=true&vCenter=true&width=900&lines=BEM+VINDO+!!!;5°+Semestre+de+Ciência+da+Computação;Desenvolvedor+Frontend;Skills:+JS,+TS,+HTML,+CSS;+Bootstrap,+TailWind,+React,+Node.js;Obrigado+Por+Visitar+Meu+Perfil!!!" alt="Typing SVG" />
   </a>
-</div>
-
+  
 ---
 <p style="text-align: justify">
 Olá! Me chamo <b style="color: #B410F3FF">Roan Nascimento Lisboa</b>, tenho 20 anos e sou natural da Bahia. Atualmente estou no <b style="color:rgb(28, 226, 111)">5° semestre</b> do curso de <b style="color:rgb(233, 117, 97)">Ciência da Computação</b> na Universidade Salvador <b style="color:rgb(17, 120, 255)">UNIFACS</b>. Diante de tudo, adoro a área da tecnológia e gosto sempre de passar por desafios, para aprender e evoluir a mim mesmo!!!
@@ -141,7 +139,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 ---
 
 ### 📊 Estatísticas
-<div>
+
 <img 
 align="left"
 alt="GitHub Stats"
@@ -154,19 +152,17 @@ src="https://github-readme-stats.vercel.app/api?username=RoanNL&show_icons=true&
 align="left"
 alt="GitHub Stats"
 height="200"
-style="padding-right: 10px"
+style="padding-right: 500px"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoanNL&layout=compact&theme=synthwave&locale=pt-br"
 />
-</br>
-</br>
 
 
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=40&duration=3000&pause=1000&color=B410F3FF&center=true&vCenter=true&width=900&lines=Obrigado+Por+Visitar+Meu+Perfil!!!;Volte+Sempre!!" alt="Typing SVG" />
   </a>
-</div>     
-</div>         
+
+  ---
+          
           
           
           
