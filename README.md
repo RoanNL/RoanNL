@@ -41,7 +41,7 @@ Olá! Me chamo <b style="color: #B410F3FF">Roan Nascimento Lisboa</b>, tenho 20 
 align="left"
 alt="HTML"
 title="HTML"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" 
 />
@@ -50,7 +50,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain
 align="left" 
 alt="CSS"
 title="CSS"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" 
 />
@@ -60,7 +60,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.s
 align="left" 
 alt="JavaScript"
 title="JavaScript"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
 />
@@ -70,7 +70,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 align="left" 
 alt="TypeScript"
 title="TypeScript"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
 />
@@ -80,7 +80,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typesc
 align="left" 
 alt="React"
 title="React"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"
 />
@@ -90,7 +90,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/react
 align="left" 
 alt="Node.js"
 title="Node.js"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
            
@@ -99,7 +99,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 align="left" 
 alt="Tailwind"
 title="Tailwind"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
  />
@@ -109,7 +109,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 align="left" 
 alt="Bootstrap"
 title="Bootstrap"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"
 />
@@ -119,7 +119,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
 align="left" 
 alt="Git"
 title="Git"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"/>
 
@@ -128,7 +128,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg
 align="left"
 alt="PostgreSQL"
 title="PostgreSQL"
-width="30px"
+width="50px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
 />
