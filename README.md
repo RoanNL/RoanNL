@@ -6,7 +6,7 @@
   
 ---
 <p style="text-align: justify">
-Olá! Me chamo <b style="color: #B410F3FF">Roan Nascimento Lisboa</b>, tenho 20 anos e sou natural da Bahia. Atualmente estou no <b style="color:rgb(28, 226, 111)">5° semestre</b> do curso de <b style="color:rgb(233, 117, 97)">Ciência da Computação</b> na Universidade Salvador <b style="color:rgb(17, 120, 255)">UNIFACS</b>. Diante de tudo, adoro a área da tecnológia e gosto sempre de passar por desafios, para aprender e evoluir a mim mesmo!!!
+Olá! Me chamo <b style="color: #B410F3FF">Roan Nascimento Lisboa</b>, tenho 20 anos e sou natural da Bahia. Atualmente estou no <b style="color:rgb(28, 226, 111)">5° semestre</b> do curso de <b style="color:rgb(233, 117, 97)">Ciência da Computação</b> na Universidade Salvador <b style="color:rgb(17, 120, 255)">UNIFACS</b>. Diante de tudo, adoro a área da tecnologia e gosto sempre de passar por desafios, para aprender e evoluir a mim mesmo!!!
 </p>
  
 
